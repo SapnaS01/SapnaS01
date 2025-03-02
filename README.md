@@ -78,12 +78,12 @@
       </a>
       <br>FastAPI
     </td>
-    <td align="center" width="86">
+<!--     <td align="center" width="86">
       <a href="#laravel">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="28" height="28" alt="Laravel" />
       </a>
       <br>Laravel
-    </td>
+    </td> -->
     <td align="center" width="86">
       <a href="#react">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React" />
