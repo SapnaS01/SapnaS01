@@ -8,7 +8,7 @@
 ## About Me
 - 🔒 Backend developer with experience in Spring Boot, JWT, and OAuth2.
 - 🛠 Skilled in creating secure and scalable REST APIs.
-- 📈 Experienced in optimizing MySQL databases for high performance.
+- 📈 Skilled in optimizing MySQL databases for high performance.
 - 🌐 Enthusiastic about open-source collaboration.
 - 📩 Reach me at **sapnasuman2001@gmail.com**
 - 🎭 When I’m not coding, you’ll find me sketching doodles, smashing shuttlecocks on the badminton court, or wandering new places.
