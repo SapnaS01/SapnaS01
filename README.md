@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sapna Suman
+# Hello World, I'm Sapna
 
 Passionate about backend development and API security.  
 Currently exploring Spring Boot, AWS, and modern microservice architectures.  
