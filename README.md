@@ -1,138 +1,46 @@
-# Hello World, I'm Sapna
+<h3 style="font-size:20px; font-weight:600;">Hey, I'm Sapna 👋</h3>
 
-Passionate about backend development and API security.  
-Currently exploring Spring Boot, AWS, and modern microservice architectures.  
-B.Tech in Electronics & Communication Engineering.
+<p style="font-size:14px;">
+I build backend systems using Spring Boot and enjoy working on API security, performance, and clean architecture. I’m currently exploring AWS services and modern microservice designs to strengthen my engineering journey. I love solving real-world problems through code, learning new technologies, and contributing to ideas that make systems more reliable and scalable.
+</p>
 
-## About Me
-- Backend developer with experience in Spring Boot, JWT, and OAuth2.
-- Skilled in creating secure and scalable REST APIs.
-- Skilled in optimizing MySQL databases for high performance.
-- Enthusiastic about open-source collaboration.
-- Reach me at **sapnasuman2001@gmail.com**
-- When I’m not coding, you’ll find me sketching doodles, smashing shuttlecocks on the badminton court, or wandering new places.
+📫 Reach me at **[sapnasuman2001@gmail.com](mailto:sapnasuman2001@gmail.com)**
+
+🎨 Outside of coding, you’ll find me sketching doodles, playing badminton, or exploring new places.
+
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Sapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SapnaS01&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SapnaS01&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SapnaS01&theme=radical)
 
 ---
+###  Languages & Tools
 
-## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="70" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" width="70" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="70" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" width="70" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="70" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="70" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="70" alt="SQLite"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=spring" width="70" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" width="70" alt="Hibernate"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="70" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=react" width="70" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="70" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/transfer-between-users.png" width="70" alt="WebClient"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="70" alt="Postman"/>
 
-### Languages:
-<table>
-  <tr>
-    <td align="center" width="76">
-      <a href="#java">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="76">
-      <a href="#python">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="76">
-      <a href="#javascript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="76">
-      <a href="#html5">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="76">
-      <a href="#css3">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="76">
-      <a href="#sql">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="SQL" />
-      </a>
-      <br>SQL
-    </td>
-  </tr>
-</table>
+</p>
 
-### Frameworks:
-<table>
-  <tr>
-    <td align="center" width="86">
-      <a href="#springboot">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" height="28" alt="Spring Boot" />
-      </a>
-      <br>Spring Boot
-    </td>
-    <td align="center" width="86">
-      <a href="#hibernate">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="28" height="28" alt="Hibernate" />
-      </a>
-      <br>Hibernate
-    </td>
-    <td align="center" width="86">
-      <a href="#fastapi">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28" height="28" alt="FastAPI" />
-      </a>
-      <br>FastAPI
-    </td>
-    <td align="center" width="86">
-      <a href="#react">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React" />
-      </a>
-      <br>React
-    </td>
-  </tr>
-</table>
-
-### Databases:
-<table>
-  <tr>
-    <td align="center" width="76">
-      <a href="#mysql">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" height="28" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="76">
-      <a href="#sqlite">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="28" height="28" alt="SQLite" />
-      </a>
-      <br>SQLite
-    </td>
-  </tr>
-</table>
-
-### Tools:
-<table>
-  <tr>
-    <td align="center" width="76">
-      <a href="#webclient">
-        <img src="https://img.icons8.com/color/344/transfer-between-users.png" width="28" height="28" alt="WebClient" />
-      </a>
-      <br>WebClient
-    </td>
-    <td align="center" width="76">
-      <a href="#postman">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="28" height="28" alt="Postman" />
-      </a>
-      <br>Postman
-    </td>
-  </tr>
-</table>
 
 ---
 
-## 🤝 Connect with me
+### 🤝 Connect with me
 [![Follow on GitHub](https://img.shields.io/github/followers/SapnaS01?label=Follow&style=social)](https://github.com/SapnaS01)
