@@ -28,6 +28,8 @@ I build backend systems using Spring Boot and enjoy working on API security, per
   <img src="https://skillicons.dev/icons?i=css" width="70" alt="CSS3"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="70" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=sqlite" width="70" alt="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=git" width="70" alt="Git"/>
+
   <br/>
   <img src="https://skillicons.dev/icons?i=spring" width="70" alt="Spring Boot"/>
   <img src="https://skillicons.dev/icons?i=hibernate" width="70" alt="Hibernate"/>
