@@ -21,24 +21,24 @@ I build backend systems using Spring Boot and enjoy working on API security, per
 ###  Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="70" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=python" width="70" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="70" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=html" width="70" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" width="70" alt="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="70" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="70" alt="SQLite"/>
-  <img src="https://skillicons.dev/icons?i=git" width="70" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="60" alt="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
 
   <br/>
-  <img src="https://skillicons.dev/icons?i=spring" width="70" alt="Spring Boot"/>
-  <img src="https://skillicons.dev/icons?i=hibernate" width="70" alt="Hibernate"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="70" alt="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=react" width="70" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="70" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/transfer-between-users.png" width="70" alt="WebClient"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="70" alt="Postman"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="70" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="65" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" width="65" alt="Hibernate"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="65" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=react" width="65" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="65" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/transfer-between-users.png" width="65" alt="WebClient"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="65" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="65" alt="Docker"/>
 
 </p>
 
