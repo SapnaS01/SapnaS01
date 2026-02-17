@@ -6,7 +6,7 @@ A Software developer who build backend systems using Spring Boot and enjoy worki
 
 📫 Reach me at **[email](mailto:sapnasuman2001@gmail.com)**:)
 
-🎨 Outside of coding, you’ll find me sketching doodles, playing badminton, or exploring new places.
+Outside of coding, you’ll find me sketching doodles, playing badminton, or exploring new places.
 
 
 ---
