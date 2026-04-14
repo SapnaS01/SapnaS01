@@ -39,6 +39,7 @@ Outside of coding, you’ll find me sketching doodles, playing badminton, or exp
   <img src="https://img.icons8.com/color/48/transfer-between-users.png" width="65" alt="WebClient"/>
   <img src="https://skillicons.dev/icons?i=postman" width="65" alt="Postman"/>
   <img src="https://skillicons.dev/icons?i=docker" width="65" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="65" alt="Eclipse"/>
 
 </p>
 
