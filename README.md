@@ -28,6 +28,7 @@ Outside of coding, you’ll find me sketching doodles, playing badminton, or exp
   <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=sqlite" width="50" alt="SQLite"/>
+ <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
 
   <br/>
@@ -46,7 +47,7 @@ Outside of coding, you’ll find me sketching doodles, playing badminton, or exp
 
   <br/>
   <img src="https://cdn.simpleicons.org/kibana/005571" width="50" alt="Kibana"/>
-  <img src="https://cdn.simpleicons.org/jfrog/41BF47" width="50" alt="JFrog"/>
+   <img src="https://cdn.simpleicons.org/jfrog/40BE46" width="50" alt="JFrog"/>
 
 </p>
 
