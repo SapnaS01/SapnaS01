@@ -21,32 +21,32 @@ Outside of coding, you’ll find me sketching doodles, playing badminton, or exp
 ###  Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="60" alt="SQLite"/>
-  <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50" alt="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
 
   <br/>
-  <img src="https://skillicons.dev/icons?i=spring" width="65" alt="Spring Boot"/>
-  <img src="https://skillicons.dev/icons?i=hibernate" width="65" alt="Hibernate"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="65" alt="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=react" width="65" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="65" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/transfer-between-users.png" width="65" alt="WebClient"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="65" alt="Postman"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="65" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=eclipse" width="65" alt="Eclipse"/>
-  <img src="https://skillicons.dev/icons?i=idea" width="65" alt="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/jsonwebtokens.svg" width="65" alt="JWT"/>
-  <img src="https://skillicons.dev/icons?i=rabbitmq" width="65" alt="RabbitMQ"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="50" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" width="50" alt="Hibernate"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="50" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="50" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/transfer-between-users.png" width="50" alt="WebClient"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="50" alt="Eclipse"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="50" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/jsonwebtokens.svg" width="50" alt="JWT"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="50" alt="RabbitMQ"/>
 
   <br/>
-  <img src="https://cdn.simpleicons.org/kibana/005571" width="65" alt="Kibana"/>
-  <img src="https://cdn.simpleicons.org/jfrog/41BF47" width="65" alt="JFrog"/>
+  <img src="https://cdn.simpleicons.org/kibana/005571" width="50" alt="Kibana"/>
+  <img src="https://cdn.simpleicons.org/jfrog/41BF47" width="50" alt="JFrog"/>
 
 </p>
 
