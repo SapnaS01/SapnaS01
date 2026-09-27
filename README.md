@@ -40,6 +40,13 @@ Outside of coding, you’ll find me sketching doodles, playing badminton, or exp
   <img src="https://skillicons.dev/icons?i=postman" width="65" alt="Postman"/>
   <img src="https://skillicons.dev/icons?i=docker" width="65" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=eclipse" width="65" alt="Eclipse"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="65" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/jsonwebtokens.svg" width="65" alt="JWT"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="65" alt="RabbitMQ"/>
+
+  <br/>
+  <img src="https://cdn.simpleicons.org/kibana/005571" width="65" alt="Kibana"/>
+  <img src="https://cdn.simpleicons.org/jfrog/41BF47" width="65" alt="JFrog"/>
 
 </p>
 
