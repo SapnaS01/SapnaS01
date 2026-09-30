@@ -22,7 +22,7 @@ A software developer who builds backend systems using Spring Boot and enjoys wor
 
 📫 Reach me at **[ssece2023@gmail.com](https://mail.google.com/mail/?view=cm&to=ssece2023@gmail.com)** :)
 
-Outside of coding, you'll find me sketching doodles, playing badminton, or exploring new places.
+🏸 Outside of coding, you'll find me sketching doodles, playing badminton, or exploring new places.
 
 <!-- </div><h3 style="font-size:20px; font-weight:600;">Hey, I'm Sapna 👋</h3>
  
