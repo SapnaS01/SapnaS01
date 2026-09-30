@@ -40,7 +40,7 @@ Outside of coding, you’ll find me sketching doodles, playing badminton, or exp
 ### 📊 GitHub Stats
 
 ![Sapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SapnaS01&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SapnaS01&layout=compact&theme=radical)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SapnaS01&layout=compact&theme=radical)-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SapnaS01&theme=radical)
 
 ---
