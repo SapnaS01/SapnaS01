@@ -8,15 +8,15 @@
 <pre>
  /\_/\   Hi!
 ( o.o ) __/
-&gt; ^ &lt; /
+ &gt; ^ &lt; /
 </pre>
 </td>
 </tr>
 </table>
 
-<h3>Hey, I'm Sapna 👋</h3>
+<h3 style="font-size:20px; font-weight:600;">Hey, I'm Sapna 👋</h3>
 
-<p>
+<p style="font-size:14px;">
 A software developer who builds backend systems using Spring Boot and enjoys working on API security, performance, and clean architecture. Currently exploring AWS services and modern microservice designs to strengthen my engineering journey. Passionate about solving real-world problems through code, learning new technologies, and contributing to ideas that make systems more reliable and scalable.
 </p>
 
